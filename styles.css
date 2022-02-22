@@ -124,6 +124,44 @@ h2{
   width: 57%
 }
 
+.fourvert {
+  height: 25%;
+}
+
+.fivevert {
+  display: flex;
+  width: 100%;
+  height: 20%;
+}
+
+.top {
+  height: 55.5%;
+  display: flex;
+}
+
+.bottom {
+  height: 44.4%
+}
+
+.left {
+  display: flex;
+  width: 40%;
+  flex-wrap: wrap;
+}
+
+.right {
+  width: 60%;
+}
+
+.square {
+  width: 40%;
+  height: 40%;
+}
+
+.cross {
+  width: 20%;
+  height: 40%;
+}
 
 
 
